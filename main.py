@@ -1,4 +1,5 @@
 # First trial of GitHub integration with Jira
+# Second trial of GitHub integration with Jira
 # This is a sample Python script.
 
 # Press Shift+F10 to execute it or replace it with your code.
