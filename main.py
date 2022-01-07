@@ -1,8 +1,9 @@
 # First trial of GitHub integration with Jira
 # Second trial of GitHub integration with Jira
 # Third trial of GitHub integration with Jira, after resetting Repository access within GitHub
-# Forth trial - close issue. DIDN'T CLOSE, but did register comment.
+# Fourth trial - close issue. DIDN'T CLOSE, but did register comment.
 # Fifth trial - reference two issues.
+# Multiple issue refs again
 # This is a sample Python script.
 
 # Press Shift+F10 to execute it or replace it with your code.
