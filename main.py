@@ -5,6 +5,7 @@
 # Fifth trial - reference two issues.
 # Multiple issue refs again
 # Try6 without #comment
+# Try7 Bracket refs with text
 # This is a sample Python script.
 
 # Press Shift+F10 to execute it or replace it with your code.
