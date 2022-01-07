@@ -4,6 +4,7 @@
 # Fourth trial - close issue. DIDN'T CLOSE, but did register comment.
 # Fifth trial - reference two issues.
 # Multiple issue refs again
+# Try6 without #comment
 # This is a sample Python script.
 
 # Press Shift+F10 to execute it or replace it with your code.
